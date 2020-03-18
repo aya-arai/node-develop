@@ -1,0 +1,20 @@
+{
+  "name": "develop",
+  "version": "1.0.0",
+  "description": "node.jsをサーバ環境に上げる",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aya-arai/node-develop.git"
+  },
+  "author": "aya_arai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aya-arai/node-develop/issues"
+  },
+  "homepage": "https://github.com/aya-arai/node-develop#readme"
+}
